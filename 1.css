@@ -1,0 +1,25 @@
+.required {
+  color: red;
+}
+.lname {
+  position: relative;
+  left: 200px;
+  bottom: 50px;
+}
+.email {
+  width: 370px;
+}
+tr {
+  padding: 10px;
+}
+th,
+td {
+  padding: 5px;
+}
+#project {
+  padding: 5px;
+}
+.checked {
+  color: yellow;
+  font-size: 140px;
+}
